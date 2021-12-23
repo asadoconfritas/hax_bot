@@ -8798,7 +8798,7 @@ room.sendAnnouncement("▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
 				}, 16600);
 
 setTimeout(function(){
-room.sendAnnouncement("q" Puedes enviar mensajes privados con el comando: !pv",player.id,0xf2ff1a,"small-bold",0);
+room.sendAnnouncement("q",player.id,0xf2ff1a,"small-bold",0);
 				}, 19000);
 setTimeout(function(){
 room.sendAnnouncement("q",player.id,0xf2ff1a,"small-bold",0);
